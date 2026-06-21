@@ -1,0 +1,3 @@
+﻿  SapphireLang.cpp
+C:\Users\Tr1plexx\source\repos\SapphireLang\SapphireLang\SapphireLang.cpp(180,1): warning C4715: Parser::parsePrint: значение возвращается не при всех путях выполнения
+  SapphireLang.vcxproj -> C:\Users\Tr1plexx\source\repos\SapphireLang\x64\Debug\SapphireLang.exe

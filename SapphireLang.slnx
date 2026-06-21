@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SapphireLang/SapphireLang.vcxproj" Id="e006207a-48e0-4c63-b146-8ae739af9b06" />
+</Solution>
